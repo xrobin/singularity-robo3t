@@ -6,7 +6,11 @@ It requires a recent version of Singularity on Linux (tested with 2.4).
 
 ## To pull a pre-built container:
 
-To be done soon.
+[The container is available on Singularity-Hub](https://www.singularity-hub.org/collections/1899) with [additional usage details](https://www.singularity-hub.org/collections/1899/usage) and can be easily pulled and run on a machine without root:
+
+```bash
+singularity pull --name "robo3t.simg" shub://xrobin/singularity-robo3t
+```
 
 ## To run Robo 3T inside the container
 
