@@ -24,4 +24,4 @@ From: ubuntu:18.04
     /opt/robo3t-1.3.1-linux-x86_64/bin/robo3t
 
 %runscript
-	exec /opt/robo3t-1.3.1-linux-x86_64/bin/robo3t "$@"
+    exec /opt/robo3t-1.3.1-linux-x86_64/bin/robo3t "$@"
