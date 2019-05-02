@@ -25,5 +25,5 @@ singularity run robo3t.simg
 ```bash
 git clone https://github.com/xrobin/singularity-robo3t.git
 cd singularity-robo3t
-sudo singularity build robo3t.simg robo3t
+sudo singularity build robo3t.simg Singularity
 ```
